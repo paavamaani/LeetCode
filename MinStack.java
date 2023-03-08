@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/min-stack/description/
+#https://leetcode.com/problems/min-stack/description
 
 class MinStack {
     private int minValue;

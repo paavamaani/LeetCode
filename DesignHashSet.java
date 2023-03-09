@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/design-hashset/description
+#https://leetcode.com/problems/design-hashset
 
 class MyHashSet {
     private int primaryBucketSize;

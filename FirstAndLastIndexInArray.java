@@ -43,6 +43,7 @@ class Solution {
         if(nums == null || nums.length == 0 || nums[0] > target || nums[len] < target) {
             return new int[]{-1, -1};
         }
+        
         int firstIndex = findFirstIndex(nums, target, 0, len);
 
         if(firstIndex == -1) {
